@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Syed Ali Raza Banner" width="100%">
+</p>
+
+<br>
 <div align="center">
 
 # Hi 👋 I'm Syed Ali Raza
