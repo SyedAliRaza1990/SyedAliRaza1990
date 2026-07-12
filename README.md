@@ -1,103 +1,190 @@
-# 👋 Hi, I'm Syed Ali Raza
+<h1 align="center">Hi 👋, I'm Syed Ali Raza</h1>
 
-### Senior Finance & Accounts Professional | Finance Automation | AI Workflows | Data Analytics
+<h3 align="center">
+Senior Finance & Accounts Professional | AI & Finance Automation | Data Analytics
+</h3>
 
-I'm a Finance & Accounts professional with **10+ years of experience** in financial reporting, budgeting, forecasting, audit, taxation, and business analysis. I'm expanding my expertise by building **AI-powered Finance Automation solutions** using modern tools such as **n8n, Python, Power BI, SQL, and OpenAI**.
+<p align="center">
+Helping businesses automate finance processes using AI, Python, n8n, Power BI & Modern Accounting Solutions.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 10+ years of Finance & Accounts experience
-- 🤖 Building AI-powered Finance Automation workflows
-- 📊 Advanced Excel, Power BI & Financial Reporting
-- 📈 FP&A, Budgeting & Forecasting
+- 💼 10+ Years of Professional Experience in Finance & Accounts
+- 📊 Financial Reporting, Consolidation, Budgeting & Forecasting
+- 📈 FP&A, Business Analysis & Data Analytics
 - 💰 US GAAP, IFRS, UK & Pakistan Taxation
-- 📚 Currently learning Python, AI Agents & Automation
+- 🤖 Building AI-powered Finance Automation Workflows
+- 🌱 Currently learning AI Agents, Python Automation & Advanced n8n
+- 🎯 Looking for Remote Opportunities worldwide
 
 ---
 
-## 🛠️ Tech Stack
+# 💼 Professional Expertise
+
+✅ Financial Reporting
+
+✅ Financial Analysis
+
+✅ Budgeting & Forecasting
+
+✅ Consolidation
+
+✅ Internal Controls
+
+✅ Audit Support
+
+✅ Business Analysis
+
+✅ KPI Reporting
+
+✅ Cash Flow Management
+
+✅ Accounts Payable
+
+✅ Accounts Receivable
+
+✅ Bank Reconciliation
+
+✅ Payroll
+
+✅ Taxation
+
+---
+
+# 🤖 Finance Automation Skills
+
+- AI Workflow Automation
+- n8n
+- OpenAI API
+- Invoice Processing Automation
+- Email Automation
+- Approval Workflows
+- Reporting Automation
+- Google Sheets Automation
+- Excel Automation
+- API Integration
+
+---
+
+# 🛠 Tech Stack
 
 ### Finance
+
 - Financial Reporting
-- FP&A
 - Budgeting
 - Forecasting
-- Consolidation
-- Internal Controls
+- FP&A
 - Audit
-- Taxation
-
-### Data & Analytics
-- Excel
-- Power BI
-- SQL
-- Python
+- Internal Controls
+- IFRS
+- US GAAP
 
 ### Accounting Software
+
 - QuickBooks Online
 - Xero
 - Oracle
 - SAP (Learning)
 
+### Data Analytics
+
+- Microsoft Excel
+- Power BI
+- SQL
+- Python
+
 ### Automation
+
 - n8n
 - OpenAI
+- GitHub
+- Git
+- APIs
+
+---
+
+# 📂 Featured Projects
+
+## 🔹 Finance Automation Workflow
+
+Automated finance workflow using n8n for processing invoices, sending notifications and updating reports.
+
+---
+
+## 🔹 AI Invoice Processing
+
+Automated invoice extraction and processing using AI.
+
+---
+
+## 🔹 Accounts Payable Automation
+
+Automated AP approval workflow.
+
+---
+
+## 🔹 Financial Dashboard
+
+Interactive Power BI dashboard for Finance KPIs.
+
+---
+
+## 🔹 Budget Forecast Dashboard
+
+Forecasting dashboard using Power BI & Excel.
+
+---
+
+# 📚 Currently Learning
+
+- Python for Finance
 - AI Agents
-- Workflow Automation
-- API Integration
+- LangChain
+- n8n Advanced Automation
+- Financial AI Solutions
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Finance Automation Workflow (n8n)
-Automated finance workflow that processes invoices, sends notifications, updates spreadsheets, and generates reports.
-
-### 🔹 AI Invoice Processing
-Coming Soon
-
-### 🔹 Accounts Payable Automation
-Coming Soon
-
-### 🔹 Financial Dashboard (Power BI)
-Coming Soon
-
-### 🔹 Budget Forecast Dashboard
-Coming Soon
-
----
-
-## 🌱 Currently Learning
-
-- AI for Finance
-- Python Automation
-- n8n Advanced Workflows
-- LLM Applications
-- Financial Data Analytics
-
----
-
-## 🎯 Career Objective
-
-Seeking remote opportunities in:
+# 🎯 Career Interests
 
 - Senior Accountant
 - Financial Analyst
-- FP&A
-- Finance Automation
+- FP&A Analyst
+- Finance Manager
 - Business Analyst
-- AI Automation
-- Data Analytics
+- Finance Automation Specialist
+- AI Automation Consultant
+- Data Analyst
 
 ---
 
-## 🤝 Connect With Me
+# 🌍 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/syed-ali-raza1990/
-- 📧 Email: Alisherazi51215@Yahoo.Com
+💼 LinkedIn
+
+https:https://www.linkedin.com/in/syed-ali-raza1990/
+
+📧 Email
+
+Alisherazi51215@Yahoo.Com
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+# 📈 GitHub Stats
+
+> GitHub Stats widgets will be added after you start pushing more projects.
+
+---
+
+# 💡 Quote
+
+> "Automation doesn't replace finance professionals—it empowers them to focus on strategic decisions."
+
+---
+
+⭐ Thanks for visiting my profile.
+
+If you like my work, consider following me and exploring my repositories.
